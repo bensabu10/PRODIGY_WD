@@ -37,7 +37,7 @@ Basic knowledge of a programming language (e.g., Python or JavaScript), a develo
 -**python**:Programming language used
 ##Contributing
  Fork the repo, clone it, create a branch, make changes, and submit a pull request.
-##Acknowledgments
+## Acknowledgments
 -Acknowledge contributors, libraries/tools used, and mentors/advisors who supported the project
 
   
