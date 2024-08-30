@@ -28,10 +28,18 @@ Basic knowledge of a programming language (e.g., Python or JavaScript), a develo
 -**Restart**: Click the reset button to begin a new game if desired.
 ## Project Structure
   ```plaintext
-   ├── main.py           # Main Python script (or equivalent for other languages)
-   ├── game_logic.py     # Game logic and rules
-   ├── ai_opponent.py    # AI opponent logic (if applicable)
-   └── ui.py             # User interface code
+   tic-tac-toe/
+│
+├── index.html         # Main HTML file
+│
+├── styles/
+│   └── styles.css     # CSS file for styling
+│
+├── scripts/
+│   └── script.js      # JavaScript file for game logic
+│
+└── assets/            # (Optional) Folder for images, icons, etc.
+
   ```
 ## Technologies Used
 -**python**:Programming language used
