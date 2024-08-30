@@ -37,12 +37,11 @@ Basic knowledge of a programming language (e.g., Python or JavaScript), a develo
 │
 ├── scripts/
 │   └── script.js      # JavaScript file for game logic
-│
-└── assets/            # (Optional) Folder for images, icons, etc.
+
 
   ```
 ## Technologies Used
--**python**:Programming language used
+-**HTML,CSS,JavaScript**:The Tic Tac Toe project uses HTML for structure, CSS for styling, and JavaScript for interactivity and game logic.
 ##Contributing
  Fork the repo, clone it, create a branch, make changes, and submit a pull request.
 ## Acknowledgments
